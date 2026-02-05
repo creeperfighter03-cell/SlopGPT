@@ -1,12 +1,3 @@
-const FIREBASE_CONFIG = {
-  apiKey: "AIzaSy...",           // Your actual apiKey
-  authDomain: "slop-chat-xxxxx.firebaseapp.com",
-  databaseURL: "https://slop-chat-xxxxx-default-rtdb.firebaseio.com",
-  projectId: "slop-chat-xxxxx",
-  storageBucket: "slop-chat-xxxxx.appspot.com",
-  messagingSenderId: "123456789",
-  appId: "1:123456789:web:abcdef"
-};
 
 import React, { useState, useEffect, useRef } from 'react';
 
